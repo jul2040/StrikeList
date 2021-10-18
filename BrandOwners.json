@@ -1,11 +1,29 @@
 {
-  "eggo":"Kellogg's",
-  "the kellogg company":"Kellogg's",
-  "kellogg's":"Kellogg's",
-  "worthington foods inc.":"Kellogg's",
-  "pringles":"Kellogg's",
-  "cheez it":"Kellogg's",
-  "kashi":"Kellogg's"
+  "eggo":"kellogg's",
+  "the kellogg company":"kellogg's",
+  "kellogg's":"kellogg's",
+  "worthington foods inc.":"kellogg's",
+  "pringles":"kellogg's",
+  "cheez it":"kellogg's",
+  "kashi":"kellogg's",
   
+  "m&m's":"mars",
+  "m&m":"mars",
+  "mars":"mars",
+  "bounty":"mars",
+  "twix":"marx",
+  "wrigley's":"mars",
+  "orbit":"mars",
+  "skittles":"mars",
+  "uncle ben's":"mars",
+  "ben's original":"mars",
+  "dolmio":"mars",
+  "seeds of change":"mars",
+  "milky way":"mars",
+  "dove":"mars",
+  "pedigree":"mars",
+  "royal canin":"mars",
   
+  "nestle":"nestle"
+  "carnation":"nestle"
 }
