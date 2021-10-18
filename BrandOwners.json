@@ -24,6 +24,22 @@
   "pedigree":"mars",
   "royal canin":"mars",
   
-  "nestle":"nestle"
-  "carnation":"nestle"
+  "nestle":"nestle",
+  "carnation":"nestle",
+  "nesquik":"nestle",
+  "milo":"nestle",
+  "nescafe":"nestle",
+  "nespresso":"nestle",
+  "san pellegrino":"nestle",
+  "gerber":"nestle",
+  
+  "hershey's":"hershey's",
+  "reese's":"hershey's",
+  "hershey's kisses":"hershey's",
+  "the hershey company":"hershey's",
+  "kit kat":"hershey's",
+  "almond joy":"hershey's",
+  "mounds":"hershey's",
+  "cadbury":"hershey's",
+  "jolly rancher":"hershey's"
 }
